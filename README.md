@@ -11,7 +11,7 @@ This project is a Power BI dashboard built to analyze and visualize key performa
 • Trend analysis over time.
 • Interactive filters and slicers for dynamic reporting.
 
- Project Contents:
-adidas_dashboard.pbix: The main Power BI dashboard file.
-images: Screenshots of the dashboard.
-README.md: Project description and details.
+📁 Project Contents:
+• adidas_dashboard.pbix: The main Power BI dashboard file.
+• images: Screenshots of the dashboard.
+• README.md: Project description and details.
